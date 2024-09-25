@@ -1,6 +1,6 @@
 app-id: com.kolor.AutopanoPro
 runtime: org.freedesktop.Platform
-runtime-version: "22.08"
+runtime-version: "24.08"
 sdk: org.freedesktop.Sdk
 
 rename-icon: AutopanoPro
@@ -46,7 +46,7 @@ modules:
           filename: AutopanoPro.tar.xz
           only-arches: 
             - x86_64
-          #url: https://archive.org/download/autopanopro_442_20180910/Autopano%20Pro%20442.zip/AutopanoPro_Linux64_442_2018-09-10.tar.xz
-          url: https://cdn-download.kolor.com/app/4.4.2.400_2018-09-10/AutopanoPro_Linux64_442_2018-09-10.tar.xz
+          url: https://archive.org/download/autopanopro_442_20180910/Autopano%20Pro%20442.zip/AutopanoPro_Linux64_442_2018-09-10.tar.xz
+          #url: https://cdn-download.kolor.com/app/4.4.2.400_2018-09-10/AutopanoPro_Linux64_442_2018-09-10.tar.xz # dead url :(
           sha256: 0d0ab28c29f2c2ef0368d0ffae77fe0ed2aa75cb79a59bef9f2c67fd86422582
           size: 42522040
